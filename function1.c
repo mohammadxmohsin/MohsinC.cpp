@@ -1,4 +1,5 @@
 #include<stdio.h>
+//This Program is for Functions
 
 void greet(char *first,char *last)
 {
